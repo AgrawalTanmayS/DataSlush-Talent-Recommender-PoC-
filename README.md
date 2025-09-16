@@ -17,7 +17,7 @@ A **Proof-of-Concept Talent Recommender System** that matches job postings with 
 * [Deployment](#deployment)
 * [Troubleshooting](#troubleshooting)
 * [Screenshots](#screenshots)
-* [License](#license)
+
 
 ---
 
